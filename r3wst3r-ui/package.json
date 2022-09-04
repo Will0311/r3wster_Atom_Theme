@@ -1,0 +1,16 @@
+{
+  "name": "r3wst3r-ui",
+  "theme": "ui",
+  "version": "0.0.1",
+  "description": "Designed to go with my i3wm system theme.",
+  "keywords": [
+    "ui",
+    "theme",
+    "r3wst3r"
+  ],
+  "repository": "https://github.com/atom-community/ui-theme-template",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
