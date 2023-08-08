@@ -24,16 +24,18 @@ ps. Don't forget to delete the above and edit the below in your own `README.md`.
 
 Atom theme designed to go with my i3wm theme.
 
+https://www.color-hex.com/color/0f1024
+
 # System theme Colors.   https://i3wm.org/docs/userguide.html#_changing_colors
 # Core theme:
-#       Bill Blue       - #0f1024
+#  Background Blue      - #0f1024
 #           Tint 1      - #1d1e44
 #           Tint 2      - #2a2d65
 #           Shade       - #0f0f23
 #           Tone        - #13142b
-#       r3wst3r Red     - #c01c28
+#       Red Alert       - #c01c28
 #           Tone        - #bd202c
-#       Jedi Green      - #11a30f
+#       Mean Green      - #11a30f
 #           Tint        - #2deb2a
 #           Shade       - #0a6209
 
